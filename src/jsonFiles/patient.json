@@ -1,0 +1,22 @@
+{
+	"clinic_data": [
+		{
+			"patient_mobile_number": "534555",
+			"patient_id": "3232",
+			"patient_age": "22",
+			"name_of_patient": "vikas"
+		},
+		{
+			"patient_mobile_number": "5354353",
+			"patient_id": "43",
+			"patient_age": "54",
+			"name_of_patient": "rahul"
+		},
+		{
+			"patient_mobile_number": "789078900",
+			"patient_id": "2341",
+			"patient_age": "25",
+			"name_of_patient": "sohail"
+		}
+	]
+}
